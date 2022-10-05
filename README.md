@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetaljgowda&label=Profile%20views&color=0e75b6&style=flat" alt="sheetaljgowda" /> </p>
 
-- 🔭 I’m currently working in [SpringML](as Data Engineer)
+- 🔭 I’m currently working in SpringML as a Data Engineer
 
 - 🌱 I’m currently learning **Snowfalke and Tableau**
 
