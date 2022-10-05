@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheetal</h1>
 <h3 align="center">Data Engineer/ Data Science /ETL developer/BI</h3>
 
-- 🔭 I’m currently doing my masters in Data Science at University at Buffalo - The State University of New York., I have 5+ years of industry experience. 
+- 🔭 I’m currently doing my masters in Data Science at University at Buffalo - The State University of New York. I have 5+ years of industry experience. 
 
 - 🌱 I’m currently learning **Snowfalke and Tableau**
 
