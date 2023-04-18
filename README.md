@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer/ Data Science /ETL developer/BI</h3>
  
 
-- 🌱 I’m currently learning **Snowfalke and Tableau**
+- 🌱 I’m currently learning **Snowflake and Tableau**
 
 - 📫 How to reach me **sheetal.gowdaj@gmail.com**
 
