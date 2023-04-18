@@ -2,7 +2,7 @@
 
  
 
-- 🌱 I’m currently learning **Snowflake and Tableau**
+- 🌱 I’m currently learning **Snowflake and dbt**
 
 - 📫 How to reach me **sheetal.gowdaj@gmail.com**
 
