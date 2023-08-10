@@ -2,8 +2,6 @@
 
  
 
-- 🌱 I’m currently learning **Snowflake and dbt**
-
 - 📫 How to reach me **sheetal.gowdaj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
